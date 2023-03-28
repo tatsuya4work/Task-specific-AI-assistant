@@ -1,6 +1,10 @@
 # Task-specific-AI-assistant
 Task-specific-AI-assistantは、Windows上で動作するAIアシスタントです。
 
+## 以下URLよりダウンロードしてください。
+
+https://github.com/tatsuya4work/Task-specific-AI-assistant/releases/download/v0.1/specific_AI_APP.zip
+
 実行ファイルは「specific_AI_APP.exe」です。
 
 ※初回実行時には警告メッセージが表示されます。その際には、「詳細情報」を選択し、「実行」をクリックしてください。
